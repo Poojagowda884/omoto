@@ -1,0 +1,36 @@
+
+
+.logo{
+    margin-left:20px;
+    text-align: center;
+}
+.button{
+    background-color: black;
+    color:white;
+    border-radius: 5px;
+   
+}
+#descBlock{
+	margin-top: 5em;
+}
+.center{
+	text-align: center;
+}
+.card-text{
+    margin-left:50px;
+    margin-right: 50px;
+
+}
+.padding{
+    padding-left: 150px;
+    margin-right:150px;
+}
+
+
+
+
+    
+
+
+
+
